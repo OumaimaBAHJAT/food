@@ -1,3 +1,6 @@
 jambon
 beurre
+pain
+fromage
+laitue
 
